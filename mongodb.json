@@ -1,0 +1,17 @@
+{
+    "resources": {
+        "dns": {
+            "files": [
+                "jar.file"
+            ],
+            "version": "dns-v1.0.0"
+        },
+        "linux": {
+            "files": [
+                "jar.file"
+            ],
+            "version": "linux-v2.1.0"
+        }
+    },
+    "terraform": "v1"
+}

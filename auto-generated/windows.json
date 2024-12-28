@@ -1,0 +1,10 @@
+{
+    "v1.0.0": {
+        "dns": "dns-v1.0.0",
+        "computer": "computer-v2.1.0"
+    },
+    "v1.0.1": {
+        "dns": "dns-v1.0.1",
+        "computer": "computer-v2.1.1"
+    }
+}
